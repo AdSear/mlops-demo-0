@@ -1,1 +1,1 @@
-hello
+MODEL_PATH = 'gs://abcd/xyz/model.pkl'
