@@ -1,0 +1,1 @@
+path = "abc/def/model.pkl"
