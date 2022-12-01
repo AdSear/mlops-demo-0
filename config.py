@@ -1,1 +1,1 @@
-path = "abc/def/model.pkl"
+MODEL_PATH = 'gs://abcd/xyz/model.pkl'
