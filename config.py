@@ -1,1 +1,1 @@
-MODEL_PATH = 'gs://abdm_demo_uc7/model_1/20230116155636/model.pkl'
+MODEL_PATH = 'gs://abdm_demo_uc7/model_1/20230116161904/model.pkl'
